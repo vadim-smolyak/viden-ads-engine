@@ -1,0 +1,20 @@
+{
+  "name": "viden-ads-engine",
+  "version": "0.1.0",
+  "description": "The VIDEN Growth creative system for Meta paid social — research, positioning, hooks, concepts, scripts, copy, QA, testing and troubleshooting. Built on Nick Theriot's Art of Creating Ads That Scale, merged with VIDEN's creative libraries and verified against 2026 evidence.",
+  "author": {
+    "name": "VIDEN Growth"
+  },
+  "keywords": [
+    "meta-ads",
+    "facebook-ads",
+    "creative-strategy",
+    "ad-copywriting",
+    "hooks",
+    "video-scripts",
+    "paid-social",
+    "creative-testing"
+  ],
+  "license": "UNLICENSED",
+  "mcpServers": "./.mcp.json"
+}

@@ -1,0 +1,24 @@
+# Generated output — briefs and script docs are per-client, never committed
+*.docx
+*.xlsx
+*.pdf
+brand-context-*.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Packaged artefact — rebuild with the command in CONTRIBUTING.md
+*.plugin
+*.zip

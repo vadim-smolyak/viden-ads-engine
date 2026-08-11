@@ -1,0 +1,16 @@
+{
+  "name": "viden-growth",
+  "owner": {
+    "name": "VIDEN Growth"
+  },
+  "metadata": {
+    "description": "VIDEN Growth internal plugins for paid media and creative strategy."
+  },
+  "plugins": [
+    {
+      "name": "viden-ads-engine",
+      "source": "./",
+      "description": "The VIDEN Growth creative system for Meta paid social — research, positioning, hooks, concepts, scripts, copy, QA, testing and troubleshooting."
+    }
+  ]
+}
